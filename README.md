@@ -1,4 +1,4 @@
-![C#-logo](images/Caratula Logo C# .png)
+![C#-logo](https://github.com/Tolentino995/AutosLocosTP/blob/main/images/Caratula%20Logo%20C%23%20.png)
 # AutosLocosTP
 Proyecto de un juego de autos
 
