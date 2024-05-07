@@ -1,4 +1,4 @@
-images/Caratula Logo C# .png
+![C#-logo](images/Caratula Logo C# .png)
 # AutosLocosTP
 Proyecto de un juego de autos
 
