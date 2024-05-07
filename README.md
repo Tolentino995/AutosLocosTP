@@ -1,3 +1,4 @@
+images/Caratula Logo C# .png
 # AutosLocosTP
 Proyecto de un juego de autos
 
