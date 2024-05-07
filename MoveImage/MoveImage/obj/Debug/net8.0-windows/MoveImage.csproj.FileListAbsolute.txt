@@ -1,0 +1,17 @@
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\bin\Debug\net8.0-windows\MoveImage.exe
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\bin\Debug\net8.0-windows\MoveImage.deps.json
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\bin\Debug\net8.0-windows\MoveImage.runtimeconfig.json
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\bin\Debug\net8.0-windows\MoveImage.dll
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\bin\Debug\net8.0-windows\MoveImage.pdb
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.Form1.resources
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.csproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.dll
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\refint\MoveImage.dll
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.pdb
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\ref\MoveImage.dll
+C:\Users\antho\OneDrive\Escritorio\Proyectos\Proyectos VisualStudioCode\MoveImage\MoveImage\obj\Debug\net8.0-windows\MoveImage.Properties.Resources.resources
